@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/261167535213615503/316e4f20d65943f88beb9000ce23f5ef/artifacts
+end_time: 1779956938784
+entry_point_name: ''
+experiment_id: '261167535213615503'
+lifecycle_stage: active
+run_id: 316e4f20d65943f88beb9000ce23f5ef
+run_name: invincible-ox-605
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779956932022
+status: 3
+tags: []
+user_id: shashankbharath

@@ -1,0 +1,10 @@
+artifact_location: mlflow-artifacts:/261167535213615503/models/m-f18c35258efe404a990ebce9f7d0eedc/artifacts
+creation_timestamp: 1779956843696
+experiment_id: '261167535213615503'
+last_updated_timestamp: 1779956848886
+model_id: m-f18c35258efe404a990ebce9f7d0eedc
+model_type: ''
+name: Random-FOrest-Model
+source_run_id: a87117764c3d442e9c4ccefbd7f56cea
+status: 2
+status_message: null

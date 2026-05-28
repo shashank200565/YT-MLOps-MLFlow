@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/261167535213615503/36f10419ac8945aab86b8a9f7e9512a6/artifacts
+end_time: 1779968959732
+entry_point_name: ''
+experiment_id: '261167535213615503'
+lifecycle_stage: active
+run_id: 36f10419ac8945aab86b8a9f7e9512a6
+run_name: handsome-carp-715
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779968954128
+status: 3
+tags: []
+user_id: shashankbharath

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/261167535213615503/b8071ba23b0b44b8a8dccf8870757202/artifacts
+end_time: 1779955829423
+entry_point_name: ''
+experiment_id: '261167535213615503'
+lifecycle_stage: active
+run_id: b8071ba23b0b44b8a8dccf8870757202
+run_name: traveling-sheep-457
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779955828923
+status: 3
+tags: []
+user_id: shashankbharath

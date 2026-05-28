@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a90609734db84d558944b79428f6520d/artifacts
+end_time: 1779951555292
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a90609734db84d558944b79428f6520d
+run_name: thoughtful-dog-657
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779951554802
+status: 3
+tags: []
+user_id: shashankbharath

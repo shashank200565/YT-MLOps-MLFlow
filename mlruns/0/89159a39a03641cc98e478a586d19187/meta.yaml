@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/89159a39a03641cc98e478a586d19187/artifacts
+end_time: 1779951442747
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 89159a39a03641cc98e478a586d19187
+run_name: burly-lamb-612
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779951442289
+status: 3
+tags: []
+user_id: shashankbharath

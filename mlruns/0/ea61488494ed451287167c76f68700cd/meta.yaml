@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ea61488494ed451287167c76f68700cd/artifacts
+end_time: 1779951475841
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ea61488494ed451287167c76f68700cd
+run_name: glamorous-dove-64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779951475398
+status: 3
+tags: []
+user_id: shashankbharath

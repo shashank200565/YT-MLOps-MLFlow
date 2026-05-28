@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/shashankbharath/Desktop/Youtube-MLOps-series/YT-MLOps-MLFlow/mlruns/437316517396530912/e7e81a9620f14ea1821967e8c4ac6188/artifacts
+end_time: 1779970027572
+entry_point_name: ''
+experiment_id: '437316517396530912'
+lifecycle_stage: active
+run_id: e7e81a9620f14ea1821967e8c4ac6188
+run_name: serious-ray-162
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779970027558
+status: 3
+tags: []
+user_id: shashankbharath

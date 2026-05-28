@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/shashankbharath/Desktop/Youtube-MLOps-series/YT-MLOps-MLFlow/mlruns/437316517396530912/6352d939e1fc4428904438aa467ee0ec/artifacts
+end_time: 1779970027777
+entry_point_name: ''
+experiment_id: '437316517396530912'
+lifecycle_stage: active
+run_id: 6352d939e1fc4428904438aa467ee0ec
+run_name: salty-goat-317
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779970027759
+status: 3
+tags: []
+user_id: shashankbharath

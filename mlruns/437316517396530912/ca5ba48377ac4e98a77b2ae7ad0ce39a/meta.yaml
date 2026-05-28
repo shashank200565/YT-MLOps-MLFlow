@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/shashankbharath/Desktop/Youtube-MLOps-series/YT-MLOps-MLFlow/mlruns/437316517396530912/ca5ba48377ac4e98a77b2ae7ad0ce39a/artifacts
+end_time: 1779970034258
+entry_point_name: ''
+experiment_id: '437316517396530912'
+lifecycle_stage: active
+run_id: ca5ba48377ac4e98a77b2ae7ad0ce39a
+run_name: dazzling-koi-590
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779970020709
+status: 3
+tags: []
+user_id: shashankbharath

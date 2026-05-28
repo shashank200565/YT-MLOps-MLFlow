@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/shashankbharath/Desktop/Youtube-MLOps-series/YT-MLOps-MLFlow/mlruns/437316517396530912/0e681f335c5b442db97b8e288553fe35/artifacts
+end_time: 1779970027555
+entry_point_name: ''
+experiment_id: '437316517396530912'
+lifecycle_stage: active
+run_id: 0e681f335c5b442db97b8e288553fe35
+run_name: sassy-squid-884
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779970027541
+status: 3
+tags: []
+user_id: shashankbharath

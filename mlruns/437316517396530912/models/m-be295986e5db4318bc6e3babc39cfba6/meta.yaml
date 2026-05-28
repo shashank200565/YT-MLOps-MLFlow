@@ -1,0 +1,10 @@
+artifact_location: file:///Users/shashankbharath/Desktop/Youtube-MLOps-series/YT-MLOps-MLFlow/mlruns/437316517396530912/models/m-be295986e5db4318bc6e3babc39cfba6/artifacts
+creation_timestamp: 1779970027878
+experiment_id: '437316517396530912'
+last_updated_timestamp: 1779970034251
+model_id: m-be295986e5db4318bc6e3babc39cfba6
+model_type: null
+name: random_forest
+source_run_id: ca5ba48377ac4e98a77b2ae7ad0ce39a
+status: 2
+status_message: null

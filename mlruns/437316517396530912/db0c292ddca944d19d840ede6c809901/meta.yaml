@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/shashankbharath/Desktop/Youtube-MLOps-series/YT-MLOps-MLFlow/mlruns/437316517396530912/db0c292ddca944d19d840ede6c809901/artifacts
+end_time: 1779970027752
+entry_point_name: ''
+experiment_id: '437316517396530912'
+lifecycle_stage: active
+run_id: db0c292ddca944d19d840ede6c809901
+run_name: dapper-colt-145
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779970027729
+status: 3
+tags: []
+user_id: shashankbharath

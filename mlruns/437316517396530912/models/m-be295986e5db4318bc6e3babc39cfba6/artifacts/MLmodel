@@ -1,0 +1,23 @@
+artifact_path: file:///Users/shashankbharath/Desktop/Youtube-MLOps-series/YT-MLOps-MLFlow/mlruns/437316517396530912/models/m-be295986e5db4318bc6e3babc39cfba6/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.12.0
+model_id: m-be295986e5db4318bc6e3babc39cfba6
+model_size_bytes: 317852
+model_uuid: m-be295986e5db4318bc6e3babc39cfba6
+prompts: null
+run_id: ca5ba48377ac4e98a77b2ae7ad0ce39a
+utc_time_created: '2026-05-28 12:07:07.903314'

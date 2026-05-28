@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/shashankbharath/Desktop/Youtube-MLOps-series/YT-MLOps-MLFlow/mlruns/437316517396530912/bd9fdacb7116406294778e433b4f47fe/artifacts
+end_time: 1779970027706
+entry_point_name: ''
+experiment_id: '437316517396530912'
+lifecycle_stage: active
+run_id: bd9fdacb7116406294778e433b4f47fe
+run_name: salty-squirrel-386
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779970027684
+status: 3
+tags: []
+user_id: shashankbharath

@@ -1,0 +1,8 @@
+artifact_location: file:///Users/shashankbharath/Desktop/Youtube-MLOps-series/YT-MLOps-MLFlow/mlruns/437316517396530912
+creation_time: 1779970020543
+experiment_id: '437316517396530912'
+last_update_time: 1779970020543
+lifecycle_stage: active
+name: breast-cancer-rf-hp
+trace_location: null
+workspace: default
